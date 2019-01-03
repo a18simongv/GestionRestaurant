@@ -2,7 +2,6 @@ package resources;
 
 import java.util.LinkedList;
 
-//¡¡¡¡¡¡¡¡¡¡¡OJO MIRAR SI PUEDEN ACCEDER AL MISMO TIEMPO A LAS DOS LISTAS(deberian)!!!!!!!!
 public class Stacks {
 	
 	private static int numToCook = 0, numCooked = 0;
